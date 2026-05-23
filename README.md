@@ -110,11 +110,11 @@ Large-scale e-commerce platform  with real-time analytics, sales forecasting, an
 Poubelle intelligente triant automatiquement les déchets (métal, humide, sec) via capteurs IoT. Transmission temps réel vers app Flutter via ESP32 WiFi.  
 **Tech:** `Flutter` `ESP32` `IoT` `Firebase` `Sensors`
 
-### 🤖 CV Analysis & Job Matching SaaS Platform *(4 months)*
+### 🤖 CV Analysis & Job Matching SaaS Platform 
 AI-powered platform for automatic CV analysis and job offer matching  
 **Tech:** `React.js` `Node.js` `PostgreSQL` `MongoDB` `NLP` `JWT`
 
-### 🏦 Bank Fraud Detection System *(2 months)*
+### 🏦 Bank Fraud Detection System 
 Full-stack ML system for real-time banking fraud detection  
 **Tech:** `Angular` `Python` `FastAPI` `Scikit-learn` `PostgreSQL`
 
@@ -126,7 +126,7 @@ Online learning platform with course management, quizzes, and progress tracking
 Centralized digital portal: Quran reader, mosque geolocation, prayer times, Hijri calendar  
 **Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-### 📰 NewSphere — News Explorer *(PFA 3A, 4 months)*
+### 📰 NewSphere — News Explorer *(PFA 3A)*
 Real-time news aggregation web application — EMSI  
 **Tech:** `Laravel` `TypeScript` `Tailwind CSS` `MySQL`
 
