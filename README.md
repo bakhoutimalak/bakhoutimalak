@@ -112,7 +112,7 @@ Poubelle intelligente triant automatiquement les déchets (métal, humide, sec) 
 
 ### 🤖 CV Analysis & Job Matching SaaS Platform 
 AI-powered platform for automatic CV analysis and job offer matching  
-**Tech:** `React.js` `Node.js` `PostgreSQL` `MongoDB` `NLP` `JWT`
+**Tech:** `Next.js` `Tailwind CSS` `TypeScript` `FastAPl` `PostgreSQL` `NLP` `JWT`
 
 ### 🏦 Bank Fraud Detection System 
 Full-stack ML system for real-time banking fraud detection  
