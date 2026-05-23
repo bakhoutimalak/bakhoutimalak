@@ -50,6 +50,7 @@ Passionate about **Full Stack Development**, **Artificial Intelligence**, **Netw
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -101,8 +102,12 @@ Passionate about **Full Stack Development**, **Artificial Intelligence**, **Netw
 Full-stack ML application with dashboards for sales forecasting — EMSI  
 **Tech:** `Next.js` `React` `Python` `Flask` `PostgreSQL` `Scikit-learn` `JWT`
 
+### 🛒 ElectroZone — E-Commerce Platform *(Grande Échelle)*
+Large-scale e-commerce platform  with real-time analytics, sales forecasting, and AI chatbot  
+**Tech:** `Spring Boot` `Java` `Next.js` `PostgreSQL` `MongoDB` `Docker` `JWT` `NLP`
+
 ### 🗑️ Smart Dustbin — Système de Tri Automatique des Déchets
-Poubelle intelligente triant automatiquement les déchets (métal, humide, sec) via capteurs IoT. Transmission temps réel vers app Flutter via ESP32 WiFi. Refus automatique si bac plein.  
+Poubelle intelligente triant automatiquement les déchets (métal, humide, sec) via capteurs IoT. Transmission temps réel vers app Flutter via ESP32 WiFi.  
 **Tech:** `Flutter` `ESP32` `IoT` `Firebase` `Sensors`
 
 ### 🤖 CV Analysis & Job Matching SaaS Platform *(4 months)*
@@ -111,13 +116,17 @@ AI-powered platform for automatic CV analysis and job offer matching
 
 ### 🏦 Bank Fraud Detection System *(2 months)*
 Full-stack ML system for real-time banking fraud detection  
-**Tech:** `Next.js` `Python` `FastAPI` `Scikit-learn` `PostgreSQL`
+**Tech:** `Angular` `Python` `FastAPI` `Scikit-learn` `PostgreSQL`
+
+### 🎓 E-Learning Platform
+Online learning platform with course management, quizzes, and progress tracking 
+**Tech:** `ASP.NET Core` `C#` `SQL Server` `Entity Framework` `SignalR` `Bootstrap`
 
 ### 🕌 Ministry of Habous Digital Portal *(Internship 2025)*
 Centralized digital portal: Quran reader, mosque geolocation, prayer times, Hijri calendar  
-**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js`
+**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
 ### 📰 NewSphere — News Explorer *(PFA 3A, 4 months)*
 Real-time news aggregation web application — EMSI  
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS`
+**Tech:** `Laravel` `TypeScript` `Tailwind CSS` `MySQL`
 
